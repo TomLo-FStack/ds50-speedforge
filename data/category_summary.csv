@@ -1,0 +1,19 @@
+category,measurements,go_speedup_over_v_geomean,winner
+Array,21,1.792886,1.79x Go
+Array/Matrix,3,2.549126,2.55x Go
+BST,6,1.960412,1.96x Go
+BinaryTree,24,1.582755,1.58x Go
+Fenwick,3,1.166775,1.17x Go
+Graph,9,2.710189,2.71x Go
+Hash,12,3.000302,3.00x Go
+Hash/TwoPointer,3,1.214096,1.21x Go
+Heap,6,0.918999,1.09x V
+Heap/Hash,3,0.840380,1.19x V
+LinkedList,21,2.559651,2.56x Go
+MonotonicStack,6,3.265817,3.27x Go
+Queue,3,2.864079,2.86x Go
+Stack,9,2.115975,2.12x Go
+Stack/Queue,6,1.964166,1.96x Go
+String,9,1.319608,1.32x Go
+Trie,3,1.670224,1.67x Go
+UnionFind,3,4.045294,4.05x Go

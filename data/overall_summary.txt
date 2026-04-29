@@ -1,0 +1,9 @@
+records=6000
+summary_rows=300
+comparison_rows=150
+go_speedup_over_v_geomean=1.964939
+overall_winner=1.96x Go
+go_wins=126
+v_wins=23
+ties=1
+checksum_mismatches=0

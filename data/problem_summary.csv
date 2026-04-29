@@ -1,0 +1,51 @@
+problem_id,category,title,go_speedup_over_v_geomean,winner
+1,Array,704 Binary Search,3.975371,3.98x Go
+2,Array,27 Remove Element,1.895780,1.90x Go
+3,Array,977 Squares of Sorted Array,2.930290,2.93x Go
+4,Array,209 Minimum Size Subarray Sum,1.692912,1.69x Go
+5,Array/Matrix,59 Spiral Matrix II,2.549126,2.55x Go
+6,Array,53 Maximum Subarray,1.990169,1.99x Go
+7,Array,56 Merge Intervals,0.579173,1.73x V
+8,Array,238 Product Except Self,1.381844,1.38x Go
+9,Hash,1 Two Sum,1.796254,1.80x Go
+10,Hash,242 Valid Anagram,3.988685,3.99x Go
+11,Hash,49 Group Anagrams,6.659137,6.66x Go
+12,Hash,454 4Sum II,1.698417,1.70x Go
+13,Hash/TwoPointer,15 3Sum,1.214096,1.21x Go
+14,String,3 Longest Substring,2.774030,2.77x Go
+15,String,76 Minimum Window,1.359648,1.36x Go
+16,String,438 Find Anagrams,0.609252,1.64x V
+17,LinkedList,707 Design Linked List,1.676838,1.68x Go
+18,LinkedList,206 Reverse Linked List,3.790451,3.79x Go
+19,LinkedList,92 Reverse Linked List II,4.335096,4.34x Go
+20,LinkedList,24 Swap Nodes in Pairs,3.766851,3.77x Go
+21,LinkedList,19 Remove Nth From End,3.173570,3.17x Go
+22,LinkedList,160 Intersection Linked List,0.764282,1.31x V
+23,LinkedList,142 Linked List Cycle II,2.859591,2.86x Go
+24,Stack,20 Valid Parentheses,0.843760,1.19x V
+25,Stack/Queue,232 Queue Using Stacks,3.614835,3.61x Go
+26,Stack/Queue,225 Stack Using Queues,1.067254,1.07x Go
+27,Stack,155 Min Stack,3.682130,3.68x Go
+28,Stack,150 Evaluate RPN,3.049392,3.05x Go
+29,Queue,239 Sliding Window Maximum,2.864079,2.86x Go
+30,MonotonicStack,739 Daily Temperatures,2.911601,2.91x Go
+31,MonotonicStack,84 Largest Rectangle,3.663126,3.66x Go
+32,Heap,215 Kth Largest,0.990494,1.01x V
+33,Heap/Hash,347 Top K Frequent,0.840380,1.19x V
+34,Heap,295 Median Finder,0.852664,1.17x V
+35,BinaryTree,102 Level Order,3.988902,3.99x Go
+36,BinaryTree,104 Maximum Depth,1.370013,1.37x Go
+37,BinaryTree,110 Balanced Binary Tree,0.361648,2.77x V
+38,BinaryTree,226 Invert Binary Tree,1.542233,1.54x Go
+39,BinaryTree,101 Symmetric Tree,1.914901,1.91x Go
+40,BinaryTree,112 Path Sum,1.934160,1.93x Go
+41,BinaryTree,105 Build Tree,2.818020,2.82x Go
+42,BinaryTree,236 Lowest Common Ancestor,1.237980,1.24x Go
+43,BST,98 Validate BST,1.724634,1.72x Go
+44,BST,230 Kth Smallest,2.228424,2.23x Go
+45,Graph,200 Number of Islands,1.654476,1.65x Go
+46,Graph,207 Course Schedule,3.127128,3.13x Go
+47,Graph,210 Course Schedule II,3.847624,3.85x Go
+48,UnionFind,684 Redundant Connection,4.045294,4.05x Go
+49,Trie,208 Implement Trie,1.670224,1.67x Go
+50,Fenwick,307 Range Sum Query Mutable,1.166775,1.17x Go

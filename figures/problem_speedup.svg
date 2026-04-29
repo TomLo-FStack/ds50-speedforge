@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="1470" viewBox="0 0 980 1470">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#222">Geomean Speedup by Problem</text>
+<text x="305" y="58" font-family="Arial, sans-serif" font-size="12" fill="#555">left: V faster, right: Go faster (log2 scale)</text>
+<line x1="582.5" y1="70" x2="582.5" y2="1442" stroke="#555" stroke-width="1"/>
+<text x="587.5" y="68" font-family="Arial, sans-serif" font-size="11" fill="#555">1.00x</text>
+<text x="24" y="94" font-family="Arial, sans-serif" font-size="12" fill="#222">11 49 Group Anagrams</text>
+<rect x="582.5" y="82" width="277.5" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="94" font-family="Arial, sans-serif" font-size="12" fill="#222">6.66x Go</text>
+<text x="24" y="122" font-family="Arial, sans-serif" font-size="12" fill="#222">19 92 Reverse Linked List II</text>
+<rect x="582.5" y="110" width="214.67487397223078" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="122" font-family="Arial, sans-serif" font-size="12" fill="#222">4.34x Go</text>
+<text x="24" y="150" font-family="Arial, sans-serif" font-size="12" fill="#222">48 684 Redundant Connection</text>
+<rect x="582.5" y="138" width="204.5481885630499" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="150" font-family="Arial, sans-serif" font-size="12" fill="#222">4.05x Go</text>
+<text x="24" y="178" font-family="Arial, sans-serif" font-size="12" fill="#222">35 102 Level Order</text>
+<rect x="582.5" y="166" width="202.49353232185786" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="178" font-family="Arial, sans-serif" font-size="12" fill="#222">3.99x Go</text>
+<text x="24" y="206" font-family="Arial, sans-serif" font-size="12" fill="#222">10 242 Valid Anagram</text>
+<rect x="582.5" y="194" width="202.48556990062363" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="206" font-family="Arial, sans-serif" font-size="12" fill="#222">3.99x Go</text>
+<text x="24" y="234" font-family="Arial, sans-serif" font-size="12" fill="#222">1 704 Binary Search</text>
+<rect x="582.5" y="222" width="201.99620635237957" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="234" font-family="Arial, sans-serif" font-size="12" fill="#222">3.98x Go</text>
+<text x="24" y="262" font-family="Arial, sans-serif" font-size="12" fill="#222">47 210 Course Schedule II</text>
+<rect x="582.5" y="250" width="197.21570738253968" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="262" font-family="Arial, sans-serif" font-size="12" fill="#222">3.85x Go</text>
+<text x="24" y="290" font-family="Arial, sans-serif" font-size="12" fill="#222">18 206 Reverse Linked List</text>
+<rect x="582.5" y="278" width="195.02455723500807" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="290" font-family="Arial, sans-serif" font-size="12" fill="#222">3.79x Go</text>
+<text x="24" y="318" font-family="Arial, sans-serif" font-size="12" fill="#222">20 24 Swap Nodes in Pairs</text>
+<rect x="582.5" y="306" width="194.1104364128735" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="318" font-family="Arial, sans-serif" font-size="12" fill="#222">3.77x Go</text>
+<text x="24" y="346" font-family="Arial, sans-serif" font-size="12" fill="#222">27 155 Min Stack</text>
+<rect x="582.5" y="334" width="190.78100633579467" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="346" font-family="Arial, sans-serif" font-size="12" fill="#222">3.68x Go</text>
+<text x="24" y="374" font-family="Arial, sans-serif" font-size="12" fill="#222">31 84 Largest Rectangle</text>
+<rect x="582.5" y="362" width="190.02365740159772" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="374" font-family="Arial, sans-serif" font-size="12" fill="#222">3.66x Go</text>
+<text x="24" y="402" font-family="Arial, sans-serif" font-size="12" fill="#222">25 232 Queue Using Stacks</text>
+<rect x="582.5" y="390" width="188.08134173694293" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="402" font-family="Arial, sans-serif" font-size="12" fill="#222">3.61x Go</text>
+<text x="24" y="430" font-family="Arial, sans-serif" font-size="12" fill="#222">21 19 Remove Nth From End</text>
+<rect x="582.5" y="418" width="169.02666841622525" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="430" font-family="Arial, sans-serif" font-size="12" fill="#222">3.17x Go</text>
+<text x="24" y="458" font-family="Arial, sans-serif" font-size="12" fill="#222">46 207 Course Schedule</text>
+<rect x="582.5" y="446" width="166.86898819764326" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="458" font-family="Arial, sans-serif" font-size="12" fill="#222">3.13x Go</text>
+<text x="24" y="486" font-family="Arial, sans-serif" font-size="12" fill="#222">28 150 Evaluate RPN</text>
+<rect x="582.5" y="474" width="163.1846606399794" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="486" font-family="Arial, sans-serif" font-size="12" fill="#222">3.05x Go</text>
+<text x="24" y="514" font-family="Arial, sans-serif" font-size="12" fill="#222">3 977 Squares of Sorted Array</text>
+<rect x="582.5" y="502" width="157.3534951005781" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="514" font-family="Arial, sans-serif" font-size="12" fill="#222">2.93x Go</text>
+<text x="24" y="542" font-family="Arial, sans-serif" font-size="12" fill="#222">30 739 Daily Temperatures</text>
+<rect x="582.5" y="530" width="156.4170311569619" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="542" font-family="Arial, sans-serif" font-size="12" fill="#222">2.91x Go</text>
+<text x="24" y="570" font-family="Arial, sans-serif" font-size="12" fill="#222">29 239 Sliding Window Maximum</text>
+<rect x="582.5" y="558" width="154.00846626380573" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="570" font-family="Arial, sans-serif" font-size="12" fill="#222">2.86x Go</text>
+<text x="24" y="598" font-family="Arial, sans-serif" font-size="12" fill="#222">23 142 Linked List Cycle II</text>
+<rect x="582.5" y="586" width="153.77893845260493" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="598" font-family="Arial, sans-serif" font-size="12" fill="#222">2.86x Go</text>
+<text x="24" y="626" font-family="Arial, sans-serif" font-size="12" fill="#222">41 105 Build Tree</text>
+<rect x="582.5" y="614" width="151.63560588258105" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="626" font-family="Arial, sans-serif" font-size="12" fill="#222">2.82x Go</text>
+<text x="24" y="654" font-family="Arial, sans-serif" font-size="12" fill="#222">14 3 Longest Substring</text>
+<rect x="582.5" y="642" width="149.3328450228995" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="654" font-family="Arial, sans-serif" font-size="12" fill="#222">2.77x Go</text>
+<text x="24" y="682" font-family="Arial, sans-serif" font-size="12" fill="#222">5 59 Spiral Matrix II</text>
+<rect x="582.5" y="670" width="136.95789179607883" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="682" font-family="Arial, sans-serif" font-size="12" fill="#222">2.55x Go</text>
+<text x="24" y="710" font-family="Arial, sans-serif" font-size="12" fill="#222">44 230 Kth Smallest</text>
+<rect x="582.5" y="698" width="117.27871253164149" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="710" font-family="Arial, sans-serif" font-size="12" fill="#222">2.23x Go</text>
+<text x="24" y="738" font-family="Arial, sans-serif" font-size="12" fill="#222">6 53 Maximum Subarray</text>
+<rect x="582.5" y="726" width="100.72887422895568" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="738" font-family="Arial, sans-serif" font-size="12" fill="#222">1.99x Go</text>
+<text x="24" y="766" font-family="Arial, sans-serif" font-size="12" fill="#222">40 112 Path Sum</text>
+<rect x="582.5" y="754" width="96.5507739033337" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="766" font-family="Arial, sans-serif" font-size="12" fill="#222">1.93x Go</text>
+<text x="24" y="794" font-family="Arial, sans-serif" font-size="12" fill="#222">39 101 Symmetric Tree</text>
+<rect x="582.5" y="782" width="95.08610477420426" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="794" font-family="Arial, sans-serif" font-size="12" fill="#222">1.91x Go</text>
+<text x="24" y="822" font-family="Arial, sans-serif" font-size="12" fill="#222">2 27 Remove Element</text>
+<rect x="582.5" y="810" width="93.61728464311108" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="822" font-family="Arial, sans-serif" font-size="12" fill="#222">1.90x Go</text>
+<text x="24" y="850" font-family="Arial, sans-serif" font-size="12" fill="#222">9 1 Two Sum</text>
+<rect x="582.5" y="838" width="85.72444911543838" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="850" font-family="Arial, sans-serif" font-size="12" fill="#222">1.80x Go</text>
+<text x="24" y="878" font-family="Arial, sans-serif" font-size="12" fill="#222">43 98 Validate BST</text>
+<rect x="582.5" y="866" width="79.76921305025864" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="878" font-family="Arial, sans-serif" font-size="12" fill="#222">1.72x Go</text>
+<text x="24" y="906" font-family="Arial, sans-serif" font-size="12" fill="#222">12 454 4Sum II</text>
+<rect x="582.5" y="894" width="77.52721577322288" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="906" font-family="Arial, sans-serif" font-size="12" fill="#222">1.70x Go</text>
+<text x="24" y="934" font-family="Arial, sans-serif" font-size="12" fill="#222">4 209 Minimum Size Subarray Sum</text>
+<rect x="582.5" y="922" width="77.05205044291996" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="934" font-family="Arial, sans-serif" font-size="12" fill="#222">1.69x Go</text>
+<text x="24" y="962" font-family="Arial, sans-serif" font-size="12" fill="#222">17 707 Design Linked List</text>
+<rect x="582.5" y="950" width="75.65572535733492" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="962" font-family="Arial, sans-serif" font-size="12" fill="#222">1.68x Go</text>
+<text x="24" y="990" font-family="Arial, sans-serif" font-size="12" fill="#222">49 208 Implement Trie</text>
+<rect x="582.5" y="978" width="75.07728582931281" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="990" font-family="Arial, sans-serif" font-size="12" fill="#222">1.67x Go</text>
+<text x="24" y="1018" font-family="Arial, sans-serif" font-size="12" fill="#222">45 200 Number of Islands</text>
+<rect x="582.5" y="1006" width="73.69074342805648" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="1018" font-family="Arial, sans-serif" font-size="12" fill="#222">1.65x Go</text>
+<text x="24" y="1046" font-family="Arial, sans-serif" font-size="12" fill="#222">38 226 Invert Binary Tree</text>
+<rect x="582.5" y="1034" width="63.408409683499976" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="1046" font-family="Arial, sans-serif" font-size="12" fill="#222">1.54x Go</text>
+<text x="24" y="1074" font-family="Arial, sans-serif" font-size="12" fill="#222">8 238 Product Except Self</text>
+<rect x="582.5" y="1062" width="47.33607916871421" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="1074" font-family="Arial, sans-serif" font-size="12" fill="#222">1.38x Go</text>
+<text x="24" y="1102" font-family="Arial, sans-serif" font-size="12" fill="#222">36 104 Maximum Depth</text>
+<rect x="582.5" y="1090" width="46.077573336513396" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="1102" font-family="Arial, sans-serif" font-size="12" fill="#222">1.37x Go</text>
+<text x="24" y="1130" font-family="Arial, sans-serif" font-size="12" fill="#222">15 76 Minimum Window</text>
+<rect x="582.5" y="1118" width="44.96604729179838" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="1130" font-family="Arial, sans-serif" font-size="12" fill="#222">1.36x Go</text>
+<text x="24" y="1158" font-family="Arial, sans-serif" font-size="12" fill="#222">42 236 Lowest Common Ancestor</text>
+<rect x="582.5" y="1146" width="31.2454105854757" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="1158" font-family="Arial, sans-serif" font-size="12" fill="#222">1.24x Go</text>
+<text x="24" y="1186" font-family="Arial, sans-serif" font-size="12" fill="#222">13 15 3Sum</text>
+<rect x="582.5" y="1174" width="28.394104537839166" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="1186" font-family="Arial, sans-serif" font-size="12" fill="#222">1.21x Go</text>
+<text x="24" y="1214" font-family="Arial, sans-serif" font-size="12" fill="#222">50 307 Range Sum Query Mutable</text>
+<rect x="582.5" y="1202" width="22.57532088657305" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="1214" font-family="Arial, sans-serif" font-size="12" fill="#222">1.17x Go</text>
+<text x="24" y="1242" font-family="Arial, sans-serif" font-size="12" fill="#222">26 225 Stack Using Queues</text>
+<rect x="582.5" y="1230" width="9.52652544926821" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="1242" font-family="Arial, sans-serif" font-size="12" fill="#222">1.07x Go</text>
+<text x="24" y="1270" font-family="Arial, sans-serif" font-size="12" fill="#222">32 215 Kth Largest</text>
+<rect x="581.1020320872149" y="1258" width="1.3979679127850855" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="1270" font-family="Arial, sans-serif" font-size="12" fill="#222">1.01x V</text>
+<text x="24" y="1298" font-family="Arial, sans-serif" font-size="12" fill="#222">34 295 Median Finder</text>
+<rect x="559.1714762424785" y="1286" width="23.328523757521424" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="1298" font-family="Arial, sans-serif" font-size="12" fill="#222">1.17x V</text>
+<text x="24" y="1326" font-family="Arial, sans-serif" font-size="12" fill="#222">24 20 Valid Parentheses</text>
+<rect x="557.635050072552" y="1314" width="24.864949927448013" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="1326" font-family="Arial, sans-serif" font-size="12" fill="#222">1.19x V</text>
+<text x="24" y="1354" font-family="Arial, sans-serif" font-size="12" fill="#222">33 347 Top K Frequent</text>
+<rect x="557.0475660540452" y="1342" width="25.452433945954745" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="1354" font-family="Arial, sans-serif" font-size="12" fill="#222">1.19x V</text>
+<text x="24" y="1382" font-family="Arial, sans-serif" font-size="12" fill="#222">22 160 Intersection Linked List</text>
+<rect x="543.155318128538" y="1370" width="39.34468187146196" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="1382" font-family="Arial, sans-serif" font-size="12" fill="#222">1.31x V</text>
+<text x="24" y="1410" font-family="Arial, sans-serif" font-size="12" fill="#222">16 438 Find Anagrams</text>
+<rect x="509.9744464403494" y="1398" width="72.52555355965056" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="1410" font-family="Arial, sans-serif" font-size="12" fill="#222">1.64x V</text>
+<text x="24" y="1438" font-family="Arial, sans-serif" font-size="12" fill="#222">7 56 Merge Intervals</text>
+<rect x="502.5640517433616" y="1426" width="79.93594825663841" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="1438" font-family="Arial, sans-serif" font-size="12" fill="#222">1.73x V</text>
+<text x="24" y="1466" font-family="Arial, sans-serif" font-size="12" fill="#222">37 110 Balanced Binary Tree</text>
+<rect x="433.63803234136634" y="1454" width="148.86196765863366" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="1466" font-family="Arial, sans-serif" font-size="12" fill="#222">2.77x V</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="574" viewBox="0 0 980 574">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#222">Geomean Speedup by Category</text>
+<text x="305" y="58" font-family="Arial, sans-serif" font-size="12" fill="#555">left: V faster, right: Go faster (log2 scale)</text>
+<line x1="582.5" y1="70" x2="582.5" y2="546" stroke="#555" stroke-width="1"/>
+<text x="587.5" y="68" font-family="Arial, sans-serif" font-size="11" fill="#555">1.00x</text>
+<text x="24" y="94" font-family="Arial, sans-serif" font-size="12" fill="#222">UnionFind</text>
+<rect x="582.5" y="82" width="277.5" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="94" font-family="Arial, sans-serif" font-size="12" fill="#222">4.05x Go</text>
+<text x="24" y="122" font-family="Arial, sans-serif" font-size="12" fill="#222">MonotonicStack</text>
+<rect x="582.5" y="110" width="234.99911997664938" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="122" font-family="Arial, sans-serif" font-size="12" fill="#222">3.27x Go</text>
+<text x="24" y="150" font-family="Arial, sans-serif" font-size="12" fill="#222">Hash</text>
+<rect x="582.5" y="138" width="218.16172647361998" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="150" font-family="Arial, sans-serif" font-size="12" fill="#222">3.00x Go</text>
+<text x="24" y="178" font-family="Arial, sans-serif" font-size="12" fill="#222">Queue</text>
+<rect x="582.5" y="166" width="208.93535987014" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="178" font-family="Arial, sans-serif" font-size="12" fill="#222">2.86x Go</text>
+<text x="24" y="206" font-family="Arial, sans-serif" font-size="12" fill="#222">Graph</text>
+<rect x="582.5" y="194" width="197.96913268288398" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="206" font-family="Arial, sans-serif" font-size="12" fill="#222">2.71x Go</text>
+<text x="24" y="234" font-family="Arial, sans-serif" font-size="12" fill="#222">LinkedList</text>
+<rect x="582.5" y="222" width="186.62186766213011" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="234" font-family="Arial, sans-serif" font-size="12" fill="#222">2.56x Go</text>
+<text x="24" y="262" font-family="Arial, sans-serif" font-size="12" fill="#222">Array/Matrix</text>
+<rect x="582.5" y="250" width="185.8037230268454" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="262" font-family="Arial, sans-serif" font-size="12" fill="#222">2.55x Go</text>
+<text x="24" y="290" font-family="Arial, sans-serif" font-size="12" fill="#222">Stack</text>
+<rect x="582.5" y="278" width="148.82471250802146" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="290" font-family="Arial, sans-serif" font-size="12" fill="#222">2.12x Go</text>
+<text x="24" y="318" font-family="Arial, sans-serif" font-size="12" fill="#222">Stack/Queue</text>
+<rect x="582.5" y="306" width="134.0422363599355" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="318" font-family="Arial, sans-serif" font-size="12" fill="#222">1.96x Go</text>
+<text x="24" y="346" font-family="Arial, sans-serif" font-size="12" fill="#222">BST</text>
+<rect x="582.5" y="334" width="133.6623744480414" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="346" font-family="Arial, sans-serif" font-size="12" fill="#222">1.96x Go</text>
+<text x="24" y="374" font-family="Arial, sans-serif" font-size="12" fill="#222">Array</text>
+<rect x="582.5" y="362" width="115.92529386893588" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="374" font-family="Arial, sans-serif" font-size="12" fill="#222">1.79x Go</text>
+<text x="24" y="402" font-family="Arial, sans-serif" font-size="12" fill="#222">Trie</text>
+<rect x="582.5" y="390" width="101.85348970329527" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="402" font-family="Arial, sans-serif" font-size="12" fill="#222">1.67x Go</text>
+<text x="24" y="430" font-family="Arial, sans-serif" font-size="12" fill="#222">BinaryTree</text>
+<rect x="582.5" y="418" width="91.1727356314866" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="430" font-family="Arial, sans-serif" font-size="12" fill="#222">1.58x Go</text>
+<text x="24" y="458" font-family="Arial, sans-serif" font-size="12" fill="#222">String</text>
+<rect x="582.5" y="446" width="55.067906427900446" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="458" font-family="Arial, sans-serif" font-size="12" fill="#222">1.32x Go</text>
+<text x="24" y="486" font-family="Arial, sans-serif" font-size="12" fill="#222">Hash/TwoPointer</text>
+<rect x="582.5" y="474" width="38.52082027517753" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="486" font-family="Arial, sans-serif" font-size="12" fill="#222">1.21x Go</text>
+<text x="24" y="514" font-family="Arial, sans-serif" font-size="12" fill="#222">Fenwick</text>
+<rect x="582.5" y="502" width="30.626775969189307" height="16" rx="2" fill="#2b6cb0"/>
+<text x="872" y="514" font-family="Arial, sans-serif" font-size="12" fill="#222">1.17x Go</text>
+<text x="24" y="542" font-family="Arial, sans-serif" font-size="12" fill="#222">Heap</text>
+<rect x="565.7274895555098" y="530" width="16.772510444490187" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="542" font-family="Arial, sans-serif" font-size="12" fill="#222">1.09x V</text>
+<text x="24" y="570" font-family="Arial, sans-serif" font-size="12" fill="#222">Heap/Hash</text>
+<rect x="547.9699928187077" y="558" width="34.530007181292284" height="16" rx="2" fill="#c05621"/>
+<text x="872" y="570" font-family="Arial, sans-serif" font-size="12" fill="#222">1.19x V</text>
+</svg>

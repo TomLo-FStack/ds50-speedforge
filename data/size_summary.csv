@@ -1,0 +1,4 @@
+input_size,measurements,go_speedup_over_v_geomean,winner
+512,50,2.011676,2.01x Go
+2048,50,1.956879,1.96x Go
+8192,50,1.927192,1.93x Go
